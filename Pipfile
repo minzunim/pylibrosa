@@ -9,6 +9,11 @@ jupyter = "*"
 ipykernel = "*"
 matplotlib = "*"
 dtw-python = "*"
+gtts = "*"
+dtaidistance = "*"
+pandas = "*"
+fastdtw = "*"
+numpy = "*"
 
 [dev-packages]
 
